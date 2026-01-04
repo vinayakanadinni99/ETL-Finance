@@ -1,4 +1,4 @@
-### Project Overview: Airflow ETL Pipeline with Postgres and API Integration
+## Project Overview: Airflow ETL Pipeline with Postgres and API Integration
 
 This project implements an end-to-end ETL (Extract, Transform, Load) pipeline using Apache Airflow. The pipeline extracts financial time-series data from an external API (Alpha Vantage Daily Stock Prices API), transforms the data into a structured format, and loads it into a PostgreSQL database. The entire workflow is orchestrated by Apache Airflow, which enables scheduling, monitoring, and reliable execution of data pipelines.
 
@@ -6,7 +6,7 @@ The project leverages Docker to run Airflow and Postgres as containerized servic
 
 ⸻
 
-#### Key Components of the Project
+### Key Components of the Project
 
 #### Airflow for Orchestration
 
